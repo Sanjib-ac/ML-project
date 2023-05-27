@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../.idea/Documents.iml" filepath="$PROJECT_DIR$/../.idea/Documents.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ML-project.iml" filepath="$PROJECT_DIR$/.idea/ML-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kit-extension-sample-ui-scene/.idea/kit-extension-sample-ui-scene.iml" filepath="$PROJECT_DIR$/../kit-extension-sample-ui-scene/.idea/kit-extension-sample-ui-scene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sa/.idea/sa.iml" filepath="$PROJECT_DIR$/../sa/.idea/sa.iml" />
       <module fileurl="file://$PROJECT_DIR$/../signalClassificationCNN/.idea/signalClassificationCNN.iml" filepath="$PROJECT_DIR$/../signalClassificationCNN/.idea/signalClassificationCNN.iml" />
       <module fileurl="file://$PROJECT_DIR$/../tkntr/.idea/tkntr.iml" filepath="$PROJECT_DIR$/../tkntr/.idea/tkntr.iml" />
     </modules>
